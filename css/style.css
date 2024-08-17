@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.head {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1136px;
+  margin: 0 auto;
+  margin-top: 25px;
+}
+.head .head__nav {
+  max-width: 370px;
+  width: 100%;
+}
+.head .head__nav .head__nav--title1 {
+  padding-right: 100px;
+  text-decoration: none;
+}
+.head .head__nav .head__nav--title2 {
+  padding-right: 100px;
+  text-decoration: none;
+}
+.head .head__nav .head__nav--title3 {
+  text-decoration: none;
+}
